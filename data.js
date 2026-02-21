@@ -216,7 +216,7 @@ var APP_DATA = {
     },
     {
       "id": "4-5-c-b-tm-c-c-cha-gisu-trong-n-thnh",
-      "name": "5. Đức Bà Tìm Được Đức Chúa Giê-su Trong Đền Thánh",
+      "name": "五、耶稣十二龄讲道",
       "levels": [
         {
           "tileSize": 256,
@@ -258,8 +258,8 @@ var APP_DATA = {
         {
           "yaw": -0.15803943551415855,
           "pitch": -0.41004943600042054,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Đức Giê-su ngồi giữa các bậc thầy Do-thái</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Hằng năm, cha mẹ Đức Giê-su trẩy hội đền\nGiê-ru-sa-lem mừng lễ Vượt Qua. Khi Người được mười hai tuổi, cả gia đình cùng lên đền, như người ta thường làm trong ngày lễ. Xong kỳ lễ, hai ông bà trở về, còn cậu bé Giê-su thì ở lại Giê-ru-sa-lem, mà cha mẹ chẳng hay biết. Ông bà cứ tưởng là cậu về chung với đoàn lữ hành, nên sau một ngày đường, mới đi tìm kiếm giữa đám bà con và người quen thuộc. Không thấy con đâu, hai ông bà trở lại Giê-ru-sa-lem mà tìm.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Sau ba ngày, hai ông bà mới tìm thấy con trong Đền Thờ, đang ngồi giữa các thầy dạy, vừa nghe họ, vừa đặt câu hỏi. Ai nghe cậu nói cũng ngạc nhiên về trí thông minh và những lời đối đáp của cậu. Khi thấy con, hai ông bà sửng sốt, và mẹ Người nói với Người: “Con ơi, sao con lại xử với cha mẹ như vậy? Con thấy không, cha con và mẹ đây đã phải cực lòng tìm con!” Người đáp: “Sao cha mẹ lại tìm con? Cha mẹ không biết là con có bổn phận ở nhà của Cha con sao?” Nhưng ông bà không hiểu lời Người vừa nói.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(Luca 2:41-50)</span></p>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">耶稣十二龄讲道</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">他的父母每年逾越节往耶路撒冷去。他到了十二岁时，他们又照节日的惯例上去了。过完了节日，他们回去的时候，孩童耶稣却留在耶路撒冷，他的父母并未发觉。他们只以为他在同行的人中间，遂走了一天的路程；以后，就在亲戚和相识的人中寻找他。既找不着，便折回耶路撒冷找他。</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">过了三天，才在圣殿里找到了他。他正坐在经师中，聆听他们，也询问他们。凡听见他的人，对他的智慧和对答，都惊奇不止。他们一看见他，便大为惊异，他的母亲就向他说：「孩子，为什么你这样对待我们？看，你的父亲和我，一直痛苦的找你。」耶稣对他们说：「你们为什么寻找我？你们不知道我必须在我父亲那里吗？」但是，他们不明白他对他们所说的话。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(路加福音 2:41-50)</span></p>"
         }
       ]
     }
