@@ -51,7 +51,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2-c-b-i-ving-b-thnh-isave",
-      "name": "2. Đức Bà Đi Viếng Bà Thánh Isave",
+      "name": "二、圣母往见圣妇依撒伯尔",
       "levels": [
         {
           "tileSize": 256,
@@ -99,8 +99,8 @@ var APP_DATA = {
         {
           "yaw": -0.12524373470416705,
           "pitch": -0.6640726414363716,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Đức Ma-ri-a viếng thăm bà Ê-li-sa-bét</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Hồi ấy, bà Ma-ri-a vội vã lên đường, đến miền núi, vào một thành thuộc chi tộc Giu-đa. Bà vào nhà ông Da-ca-ri-a và chào hỏi bà Ê-li-sa-bét. Bà Ê-li-sa-bét vừa nghe tiếng bà Ma-ri-a chào, thì đứa con trong bụng nhảy lên, và bà được đầy tràn Thánh Thần, liền kêu lớn tiếng và nói rằng: “Em được chúc phúc hơn mọi người phụ nữ, và người con em đang cưu mang cũng được chúc phúc. Bởi đâu tôi được Thân Mẫu Chúa tôi đến với tôi thế này? Vì này đây, tai tôi vừa nghe tiếng em chào, thì đứa con trong bụng đã nhảy lên vui sướng. Em thật có phúc, vì đã tin rằng Chúa sẽ thực hiện những gì Người đã nói với em.”<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(Luca 1:39-45)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">圣母往见圣妇依撒伯尔</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">玛利亚就在那几日起身，急速往山区去，到了犹大的一座城。她进了匝加利亚的家，就给依撒伯尔请安。依撒伯尔一听到玛利亚请安，胎儿就在她的腹中欢跃。依撒伯尔遂充满了圣神，大声呼喊说：「在女人中你是蒙祝福的，你的胎儿也是蒙祝福的。吾主的母亲驾临我这里，这是我那里得来的呢？看，你请安的声音一入我耳，胎儿就在我腹中欢喜踊跃。那信了由上主传于她的话必要完成的，是有福的。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(Luca 1:39-45)</div>"
         }
       ]
     },
